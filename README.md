@@ -1,11 +1,11 @@
 # MLReactFlask
  
-# Step One: Open VS Code (AS AN ADMINISTRATOR), go to the ui folder and type in:
+# Step One: open VS Code (AS AN ADMINISTRATOR), open a terminal and cd into the ui folder and type in:
 
 - serve -s build -l 3000
 
 
-# Step Two: Go to the service folder and type in:
+# Step Two: open another terminal cd into the service folder and type in:
 
 
 - Set-ExecutionPolicy unrestricted
