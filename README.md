@@ -1,8 +1,6 @@
 # MLReactFlask
  
-# Here is the method you will need to follow to make this work:
-
-Open VS Code (AS AN ADMINISTRATOR), go to/cd into the Github folder and using a terminal CD into the file and once setup type the following command:
+# Step One: Open VS Code (AS AN ADMINISTRATOR), go to/cd into the service folder and type in:
 
 serve -s build -l 3000
 
@@ -21,3 +19,6 @@ venv\Scripts\activate
 flask run
 
 Done! – To test that its working go into your browser and type in http://localhost:3000
+
+
+# For more info check my blog: https://flaskml.design.blog
