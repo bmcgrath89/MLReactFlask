@@ -4,7 +4,7 @@
 
 - Node: https://nodejs.org/en/download/
 
-- Python: https://www.python.org/downloads/ (make sure you use the installer which corresponds to your OS bit type e.g. x64)
+- Python: https://www.python.org/downloads/ (only use the installer which corresponds to your OS bit type e.g. x64)
 
 - VS Code: https://code.visualstudio.com/
 
