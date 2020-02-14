@@ -41,4 +41,4 @@ Once you have done that it is time to proceed...
 - To test that its working go into your browser and type in http://localhost:3000
 
 
-# For more info and a step-vy-step video check my blog: https://flaskml.design.blog
+# For more info and a step-by-step video check my blog: https://flaskml.design.blog
