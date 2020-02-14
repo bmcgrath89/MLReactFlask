@@ -1,4 +1,16 @@
 # MLReactFlask
+
+# Note: You will need Node.js, Yarn, VS Code and the latest stable version of Python to do this sucesfully:
+
+- Node: https://nodejs.org/en/download/
+
+- Python: https://www.python.org/downloads/
+
+- VS Code: https://code.visualstudio.com/
+
+- Yarn: https://classic.yarnpkg.com/latest.msi
+
+Once you have done that it is time to proceed...
  
 # Step One: open VS Code, open a terminal, cd into the ui folder and type in:
 
