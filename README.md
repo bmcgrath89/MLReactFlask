@@ -8,7 +8,7 @@
 # Step Two: open another terminal cd into the service folder and type in:
 
 
--pip install virtualenv (this installs the virtual environment, which requires Python)
+- pip install virtualenv (this installs the virtual environment, which requires Python)
 
 - virtualenv venv (this creates a virtual environment folder called venv)
 
