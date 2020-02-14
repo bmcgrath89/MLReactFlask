@@ -36,9 +36,9 @@ Once you have done that it is time to proceed...
 
 - LINK: https://stackoverflow.com/a/60136605/12867200
 
-- Once you have fixed the errors then type flask run again, it should work! :)
+- Once you have fixed the errors then type flask run again, it should work now! :)
 
 - To test that its working go into your browser and type in http://localhost:3000
 
 
-# For more info check my blog: https://flaskml.design.blog
+# For more info and a step-vy-step video check my blog: https://flaskml.design.blog
