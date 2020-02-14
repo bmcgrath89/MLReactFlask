@@ -1,6 +1,6 @@
 # MLReactFlask
  
-# Step One: open VS Code (AS AN ADMINISTRATOR), open a terminal and cd into the ui folder and type in:
+# Step One: open VS Code, open a terminal, cd into the ui folder and type in:
 
 - serve -s build -l 3000
 
@@ -8,15 +8,25 @@
 # Step Two: open another terminal cd into the service folder and type in:
 
 
-- Set-ExecutionPolicy unrestricted
+-pip install virtualenv (this installs the virtual environment, which requires Python)
 
-- Unblock-File venv
+- virtualenv venv (this creates a virtual environment folder called venv)
 
-- venv\Scripts\activate
+- venv\scripts\activate (this activates the Virtual Environment)
 
-- flask run
+- pip install flask (this installs the Flask API backend)
 
-- Done! – To test that its working go into your browser and type in http://localhost:3000
+- pip install flask-restplus
+
+- pip install sklearn (restplus and sklearn are required for the ML part)
+
+- Now try typing in flask run (you will likely get an error that says something like ‘Cannot import name ‘cached_property’, if you get that, use the link below to see my solution). 
+
+- LINK: https://stackoverflow.com/a/60136605/12867200
+
+- Once you have fixed the errors then type flask run again, it should work! :)
+
+- To test that its working go into your browser and type in http://localhost:3000
 
 
 # For more info check my blog: https://flaskml.design.blog
